@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">TasteBud</string>
+    <string name="api_key">20816cc1798a47a9a8274a52ffb4aacf</string>
+
+    <string-array name="tags">
+        <item>vegetarian</item>
+        <item>bread</item>
+        <item>marinade</item>
+        <item>fingerfood</item>
+        <item>breakfast</item>
+        <item>side dish</item>
+        <item>dessert</item>
+        <item>soup</item>
+        <item>snack</item>
+        <item>drink</item>
+        <item>beverage</item>
+        <item>appetizer</item>
+        <item>salad</item>
+        <item>sauce</item>
+
+    </string-array>
+</resources>
